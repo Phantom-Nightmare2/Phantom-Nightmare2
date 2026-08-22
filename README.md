@@ -8,5 +8,5 @@
 - Functional Testing
 - MSIX Packaging
 - Microsoft Store Submission
-- AI-Assisted Development
+- AI Tool Operations for Software Development
 - AI Operations (Research, Code Analysis, Debugging & Review)
