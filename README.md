@@ -10,3 +10,4 @@
 - Microsoft Store Submission
 - AI Tool Operations for Software Development
 - AI Operations (Research, Code Analysis, Debugging & Review)
+- Application Structure & Architecture Basics
