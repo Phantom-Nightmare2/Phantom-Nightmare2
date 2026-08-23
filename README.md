@@ -16,3 +16,6 @@
 - Desktop Application Backend Logic
 - LLM Utilization
 - LLM-Assisted Development
+- Visual Studiocode
+-  Visual Studio
+-  
