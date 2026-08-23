@@ -1,4 +1,4 @@
-## Skills
+## Skills Tree
 
 - C# / .NET / Windows Forms (WinForms)
 - Desktop Application Development
@@ -13,3 +13,5 @@
 - Application Structure & Architecture Basics
 - Desktop Application Frontend Development
 - Desktop Application Backend Logic
+- LLM Utilization
+- LLM-Assisted Development
