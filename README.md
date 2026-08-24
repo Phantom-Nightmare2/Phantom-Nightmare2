@@ -18,4 +18,4 @@
 - LLM-Assisted Development
 - Visual Studiocode
 -  Visual Studio
--  
+-  Package as a VSIX
