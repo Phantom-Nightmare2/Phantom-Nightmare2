@@ -1,6 +1,6 @@
 ## Skills Tree
 
-- C# /JSON /
+- C# / JSON / XML /
 - .NET / Windows Forms (WinForms)
 - Desktop Application Development
 - UI Implementation
