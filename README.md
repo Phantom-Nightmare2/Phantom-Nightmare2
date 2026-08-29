@@ -19,3 +19,4 @@
 - Visual Studiocode
 -  Visual Studio
 -  Package as a VSIX
+- Visual Studio Extension Development
