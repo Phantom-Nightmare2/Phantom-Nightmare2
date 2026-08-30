@@ -20,3 +20,5 @@
 -  Visual Studio
 -  Package as a VSIX
 - Visual Studio Extension Development
+- Visual Studio Code Extension Development
+- 
