@@ -21,4 +21,7 @@
 -  Package as a VSIX
 - Visual Studio Extension Development
 - Visual Studio Code Extension Development
-- 
+- Application Development
+├── UI Design (Interface & Interaction Design)
+├── UX Design (Usability & User Experience)
+└── User-Centered Design (User Needs & Product Design)
