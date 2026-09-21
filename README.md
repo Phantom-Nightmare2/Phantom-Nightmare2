@@ -25,3 +25,4 @@
 ├── UI Design (Interface & Interaction Design)
 ├── UX Design (Usability & User Experience)
 └── User-Centered Design (User Needs & Product Design)
+- Basic SQL 
