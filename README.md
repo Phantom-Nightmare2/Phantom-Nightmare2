@@ -1,6 +1,18 @@
 ## Skills Tree
 
 - C# / JSON / XML /
+- Claude Code
+・VS Code Integration
+・AI-Assisted C#/.NET Project Development
+・Automation of File Editing, Build, and Execution
+- AI Agent Development
+・Design and Development of Claude Code Custom Subagents
+・Role-Based Agent Prompt and Rule Design
+・Development of Shared Agent Environments Across Projects
+- AI Orchestration
+・Role Separation Between Implementation and Review Agents
+・AI Development Workflow Design: Implementation → Review → Revision
+・Human-in-the-Loop AI Development Management
 - .NET / Windows Forms (WinForms)
 - Desktop Application Development
 - UI Implementation
