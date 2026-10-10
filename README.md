@@ -1,6 +1,6 @@
 ## Skills Tree
 
-- C# / JSON / XML /
+- C# / JSON / XML / C++ / Python
 - Claude Code
 ・VS Code Integration
 ・AI-Assisted C#/.NET Project Development
