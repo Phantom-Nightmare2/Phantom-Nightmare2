@@ -26,8 +26,14 @@
 - Application Structure & Architecture Basics
 - Desktop Application Frontend Development
 - Desktop Application Backend Logic
+- LLM AI Development
+- LLM AI Architecture
+- LLM AI Agent Development
 - LLM Utilization
 - LLM-Assisted Development
+- LLM AI Orchestration
+- LLM AI Cross-Orchestration
+- LLM Hierarchical Multi-Agent Orchestration
 - Visual Studiocode
 -  Visual Studio
 -  Package as a VSIX
