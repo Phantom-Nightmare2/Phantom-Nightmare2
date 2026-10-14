@@ -26,7 +26,7 @@
 - Application Structure & Architecture Basics
 - Desktop Application Frontend Development
 - Desktop Application Backend Logic
-- LLM AI Development
+- AI Development
 - LLM AI Architecture
 - LLM AI Agent Development
 - LLM Utilization
