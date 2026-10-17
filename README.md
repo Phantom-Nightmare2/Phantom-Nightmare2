@@ -4,7 +4,7 @@
 
 ### `SKILL TREE // DEVELOPMENT CAPABILITIES`
 
-**Windows Application Development** · **AI Agent Engineering** · **Multi-Agent Orchestration**
+**Windows Application Development** · **AI Development** · **AI Agent Development** · **AI Agent Engineering** · **AI Agent Development Team Structure** · **Multi-Agent Orchestration**
 
 ---
 
