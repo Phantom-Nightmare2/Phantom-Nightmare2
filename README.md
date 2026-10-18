@@ -17,6 +17,10 @@
 
 **Data & Configuration:** `JSON` · `XML` · `SQL (Basic)`
 
+### 🏆 実績
+
+<a href="https://apps.microsoft.com/detail/9NXFKST0SWFZ?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="200" /></a>
+
 </div>
 
 ---
