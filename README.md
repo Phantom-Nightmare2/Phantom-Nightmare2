@@ -29,19 +29,23 @@
 
 <div align="left">
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" valign="top">
-      <a href="https://apps.microsoft.com/detail/9NXFKST0SWFZ?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="200" /></a><br>
+    <td align="center" valign="top" width="25%">
+      <a href="https://apps.microsoft.com/detail/9NXFKST0SWFZ?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="175" /></a><br>
       <a href="https://apps.microsoft.com/detail/9NXFKST0SWFZ?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://img.shields.io/badge/Blue__Calculator-0078D4?style=for-the-badge" alt="Blue_Calculator" /></a>
     </td>
-    <td align="center" valign="top">
-      <a href="https://apps.microsoft.com/detail/9P7BBT0DC1HH?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="200" /></a><br>
+    <td align="center" valign="top" width="25%">
+      <a href="https://apps.microsoft.com/detail/9P7BBT0DC1HH?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="175" /></a><br>
       <a href="https://apps.microsoft.com/detail/9P7BBT0DC1HH?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://img.shields.io/badge/Ice__Converter-0078D4?style=for-the-badge" alt="Ice_Converter" /></a>
     </td>
-    <td align="center" valign="top">
-      <a href="https://apps.microsoft.com/detail/9N0LWK861FQQ?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="200" /></a><br>
+    <td align="center" valign="top" width="25%">
+      <a href="https://apps.microsoft.com/detail/9N0LWK861FQQ?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="175" /></a><br>
       <a href="https://apps.microsoft.com/detail/9N0LWK861FQQ?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://img.shields.io/badge/Cold__QR-0078D4?style=for-the-badge" alt="Cold_QR" /></a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://apps.microsoft.com/detail/9N91Z28LH0TN?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="175" /></a><br>
+      <a href="https://apps.microsoft.com/detail/9N91Z28LH0TN?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://img.shields.io/badge/Aqua__Recorder-0078D4?style=for-the-badge" alt="Aqua_Recorder" /></a>
     </td>
   </tr>
 </table>
