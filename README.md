@@ -39,6 +39,10 @@
       <a href="https://apps.microsoft.com/detail/9P7BBT0DC1HH?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="200" /></a><br>
       <a href="https://apps.microsoft.com/detail/9P7BBT0DC1HH?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://img.shields.io/badge/Ice__Converter-0078D4?style=for-the-badge" alt="Ice_Converter" /></a>
     </td>
+    <td align="center" valign="top">
+      <a href="https://apps.microsoft.com/detail/9N0LWK861FQQ?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="200" /></a><br>
+      <a href="https://apps.microsoft.com/detail/9N0LWK861FQQ?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://img.shields.io/badge/9N0LWK861FQQ-0078D4?style=for-the-badge" alt="Store ID: 9N0LWK861FQQ (app title pending confirmation)" /></a>
+    </td>
   </tr>
 </table>
 </div>
