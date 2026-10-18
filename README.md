@@ -23,6 +23,8 @@
 
 <a href="https://apps.microsoft.com/detail/9NXFKST0SWFZ?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="200" /></a>
 
+<a href="https://apps.microsoft.com/detail/9NXFKST0SWFZ?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://img.shields.io/badge/Blue%20Calculator-0078D4?style=for-the-badge" alt="Blue Calculator" /></a>
+
 </div>
 
 ---
