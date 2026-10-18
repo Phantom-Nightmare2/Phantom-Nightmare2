@@ -17,7 +17,7 @@
 
 **Data & Configuration:** `JSON` · `XML` · `SQL (Basic)`
 
-### 🏆 実績
+# 🏆 実績
 
 <sub>Microsoft Storeで公開したアプリ</sub>
 
