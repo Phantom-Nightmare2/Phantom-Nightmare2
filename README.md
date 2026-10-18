@@ -21,7 +21,7 @@
 
 <sub>Microsoft Storeで公開したアプリ</sub>
 
-<a href="https://apps.microsoft.com/detail/9NXFKST0SWFZ?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge" alt="Microsoft Storeに公開したアプリを見る" /></a>
+<a href="https://apps.microsoft.com/detail/9NXFKST0SWFZ?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="200" /></a>
 
 </div>
 
