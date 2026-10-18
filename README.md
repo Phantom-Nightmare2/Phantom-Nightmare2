@@ -27,9 +27,9 @@
 
 </div>
 
-<div align="left">
+<div align="center">
 
-<table width="100%">
+<table align="center" width="96%">
   <tr>
     <td align="center" valign="top" width="25%">
       <a href="https://apps.microsoft.com/detail/9NXFKST0SWFZ?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="175" /></a><br>
