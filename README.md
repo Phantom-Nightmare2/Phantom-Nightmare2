@@ -48,6 +48,15 @@
       <a href="https://apps.microsoft.com/detail/9N91Z28LH0TN?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://img.shields.io/badge/Aqua__Recorder-0078D4?style=for-the-badge" alt="Aqua_Recorder" /></a>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://apps.microsoft.com/detail/9NM0CFW5QVC1?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft Store" width="175" /></a><br>
+      <a href="https://apps.microsoft.com/detail/9NM0CFW5QVC1?hl=neutral&amp;gl=JP&amp;ocid=pdpshare"><img src="https://img.shields.io/badge/Party__Stamp__Maker-0078D4?style=for-the-badge" alt="Party_Stamp_Maker" /></a>
+    </td>
+    <td align="center" valign="top" width="25%"></td>
+    <td align="center" valign="top" width="25%"></td>
+    <td align="center" valign="top" width="25%"></td>
+  </tr>
 </table>
 </div>
 
