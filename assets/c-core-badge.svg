@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205" height="78" viewBox="0 0 205 78" role="img" aria-label="C programming language - sapphire diamond badge">
+  <defs>
+    <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#277EDB"/>
+      <stop offset="1" stop-color="#0753A3"/>
+    </linearGradient>
+    <linearGradient id="sapphire" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#74C8FF"/>
+      <stop offset=".48" stop-color="#217AF5"/>
+      <stop offset="1" stop-color="#123CA4"/>
+    </linearGradient>
+    <linearGradient id="facet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7EDBFF"/>
+      <stop offset="1" stop-color="#1564DB"/>
+    </linearGradient>
+  </defs>
+  <rect width="205" height="78" fill="url(#badge)"/>
+  <rect width="80" height="78" fill="#093E86" opacity=".45"/>
+  <!-- Original faceted sapphire emblem, not a third-party logo asset. -->
+  <path d="M40 4 70 21 70 57 40 74 10 57 10 21Z" fill="url(#sapphire)"/>
+  <path d="M40 4 70 21 40 39 10 21Z" fill="url(#facet)" opacity=".9"/>
+  <path d="M10 21 40 39 40 74 10 57Z" fill="#1753C1" opacity=".88"/>
+  <path d="M70 21 40 39 40 74 70 57Z" fill="#0A43AB" opacity=".84"/>
+  <path d="M40 4 40 39 70 21Z" fill="#50A6FF" opacity=".58"/>
+  <path d="M40 4 40 39 10 21Z" fill="#A7E7FF" opacity=".23"/>
+  <path d="M10 21 40 4 70 21 70 57 40 74 10 57Z" fill="none" stroke="#9DDCFF" stroke-width="1.3" stroke-linejoin="round" opacity=".82"/>
+  <text x="40" y="53" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="900" fill="#F7FCFF">C</text>
+  <path d="M80 0V78" stroke="#80C5FF" stroke-width="1" opacity=".35"/>
+  <text x="143" y="50" text-anchor="middle" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="32" font-weight="800" fill="#FFFFFF">C</text>
+</svg>
