@@ -31,7 +31,7 @@
 
 <div align="center">
 
-# 🏆 実績
+# <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png?v8" alt="🏆" width="44" height="44" /> 実績
 
 <sub>Microsoft Storeで公開したアプリ</sub>
 
