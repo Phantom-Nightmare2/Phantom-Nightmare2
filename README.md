@@ -99,6 +99,8 @@
 <a href="#programming--data"><img src="https://img.shields.io/badge/C%20File%20I%2FO-155E9A?style=for-the-badge" alt="C File I/O" /></a>
 <a href="#programming--data"><img src="https://img.shields.io/badge/C%20Windows%20API%20Integration-155E9A?style=for-the-badge" alt="C Windows API Integration" /></a>
 <a href="#programming--data"><img src="https://img.shields.io/badge/C%20Library%20Integration-155E9A?style=for-the-badge" alt="C Library Integration" /></a>
+<a href="#programming--data"><img src="https://img.shields.io/badge/C%20Audio%20Source%20Development-155E9A?style=for-the-badge" alt="C Audio Source Development" /></a>
+<a href="#programming--data"><img src="https://img.shields.io/badge/C%20Texture%20%2F%20Material%20Development-155E9A?style=for-the-badge" alt="C Texture / Material Development" /></a>
 </p>
 
 ### 🧠 AI AGENT ENGINEERING
