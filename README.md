@@ -93,6 +93,12 @@
 <a href="#programming--data"><img src="https://img.shields.io/badge/C%20High--Speed%20Processing-155E9A?style=for-the-badge" alt="C High-Speed Processing" /></a>
 <a href="#programming--data"><img src="https://img.shields.io/badge/C%20Programming%20Object%20Development-155E9A?style=for-the-badge" alt="C Programming Object Development" /></a>
 <a href="#programming--data"><img src="https://img.shields.io/badge/C%20System%20Development%20%2F%20CAD%20Software-155E9A?style=for-the-badge" alt="C System Development / CAD Software" /></a>
+<a href="#programming--data"><img src="https://img.shields.io/badge/C%20Coordinate%20%2F%20Vector%20Calculations-155E9A?style=for-the-badge" alt="C Coordinate / Vector Calculations" /></a>
+<a href="#programming--data"><img src="https://img.shields.io/badge/C%20Memory%20Handling-155E9A?style=for-the-badge" alt="C Memory Handling" /></a>
+<a href="#programming--data"><img src="https://img.shields.io/badge/C%20Array%20Processing-155E9A?style=for-the-badge" alt="C Array Processing" /></a>
+<a href="#programming--data"><img src="https://img.shields.io/badge/C%20File%20I%2FO-155E9A?style=for-the-badge" alt="C File I/O" /></a>
+<a href="#programming--data"><img src="https://img.shields.io/badge/C%20Windows%20API%20Integration-155E9A?style=for-the-badge" alt="C Windows API Integration" /></a>
+<a href="#programming--data"><img src="https://img.shields.io/badge/C%20Library%20Integration-155E9A?style=for-the-badge" alt="C Library Integration" /></a>
 </p>
 
 ### 🧠 AI AGENT ENGINEERING
