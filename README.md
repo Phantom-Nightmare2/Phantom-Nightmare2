@@ -87,6 +87,8 @@
 <a href="#programming--data"><img src="https://img.shields.io/badge/SQL%20(Basic)-0E7490?style=for-the-badge" alt="SQL (Basic)" /></a>
 </p>
 
+### 💎 C LANGUAGE DEVELOPMENT
+
 <p align="left">
 <a href="#programming--data"><img src="https://img.shields.io/badge/C%20High--Speed%20Processing-155E9A?style=for-the-badge" alt="C High-Speed Processing" /></a>
 <a href="#programming--data"><img src="https://img.shields.io/badge/C%20Programming%20Object%20Development-155E9A?style=for-the-badge" alt="C Programming Object Development" /></a>
